@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Dmitrii
+### Hi there, I'm Dmitrii
 
 #### 📫 Feel free to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Dmitrii%20Pashkevich)](https://www.linkedin.com/in/dipiash)
