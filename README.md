@@ -13,4 +13,4 @@ I'm always ready to embrace challenges and continuously improve my skills in the
 
 #### 🌱 My contribution statistic
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipiash&show_icons=true&theme=merko)
+![Dmitrii Pashkevich GitHub stats](https://dipiash-github-readme-stats.vercel.app/api?username=dipiash&show_icons=true&theme=merko)
