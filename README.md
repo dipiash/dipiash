@@ -1,6 +1,6 @@
 ### Hi there, I'm Dmitrii
 
-I'm a passionate full-stack developer with experience in creating high-quality web applications using cutting-edge technologies. My experience in various industries (FinTech, SaaS, EdTech, eCommers, IoT, Entertainment) enables me to work effectively in different project environments.
+I'm a passionate Frontend/Full-stack developer with experience in creating high-quality web applications using cutting-edge technologies. My experience in various industries (FinTech, SaaS, EdTech, eCommers, IoT, Entertainment) enables me to work effectively in different project environments.
 
 Collaboration, effective communication, and honesty are essential for me in teamwork. I focus on creating an outstanding user interface and experience in product development, ensuring user convenience.
 
