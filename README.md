@@ -11,6 +11,9 @@ I'm always ready to embrace challenges and continuously improve my skills in the
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Dmitrii%20Pashkevich)](https://t.me/dipiash)
 
+[![Gmail](https://img.shields.io/badge/dipiash.developer@gmail.com-2CA5E0?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dipiash.developer@gmail.com&label=Dmitrii%20Pashkevich)](mailto:dipiash.developer@gmail.com)
+
+
 #### 🌱 My contribution statistic
 
 ![Dmitrii Pashkevich GitHub stats](https://dipiash-github-readme-stats.vercel.app/api?username=dipiash&show_icons=true&theme=merko)
